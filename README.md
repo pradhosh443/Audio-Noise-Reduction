@@ -172,13 +172,14 @@ print("Noise reduction completed successfully!")
 ~~~
 
 # OUTPUT: 
-### Spectrogram of Original and Denoised Signals:
 
-<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/b92462e7-bbba-4fa8-af35-3f58fb3ef869" />
+# Audio signal
 
-### Plot of Original and Denoised Signals:
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/07e5d388-1d29-4c82-ba03-028fe92601a1" />
 
-<img width="1000" height="400" alt="download" src="https://github.com/user-attachments/assets/b7c39acf-f17a-4839-8cba-5145afc3a800" />
+# Waveform
+
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/6d8ca895-61dc-4e8c-848f-f6de3814fc82" />
 
 ---
 
